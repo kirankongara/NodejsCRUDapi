@@ -14,7 +14,8 @@
   "dependencies": {
     "express": "^4.19.2",
     "mongodb": "^6.8.0",
-    "mongoose": "^8.5.2"
+    "mongoose": "^8.5.2",
+    "simple_crud": "file:"
   },
   "devDependencies": {
     "nodemon": "^3.1.4"
